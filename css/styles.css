@@ -1,0 +1,17 @@
+body{
+background-color: #81d4fa;
+}
+
+h1{
+color: navy;
+}
+
+hr{
+/* background-color:white; */
+border-style: none;
+border-top-style: dotted;
+border-color: #ffeb3b;
+border-width: 5px;
+width: 100%
+
+}
